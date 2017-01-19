@@ -1,3 +1,16 @@
+###
+##  This is my .screenrc for my local computer. What's great about this is, I can switch between screen sessions (tabs at the bottom) using CTRL+ALT+<arrows>
+##
+##  On my remote computer, I switch between screen sessions using CTRL+<arrows>. No ALT.
+##
+##  So, I can switch between nested screen sessions without confusion!
+###
+
+
+
+
+
+
 Bind F11 and F12 (NOT F1 and F2) to previous and next screen window
 #bindkey -k F1 prev
 #bindkey -k F2 next
